@@ -1,5 +1,5 @@
 def start():
-    print("you stand at the entrance of the bathroom. Do you?")
+    print("you stand at the entrance of the bathroom. Do you?") #this is the start of the code/adventure
     print("1. Enter the bathroom")
     print("2. turn back and go to sleep")
 
@@ -31,7 +31,7 @@ def into_the_bathroom():
     print("You see a skibidi toilet, do you")
     print("1. Interact with Skibidi")
     print("2. Take a shower and ignore Skibdi")
-    print("3. Brush your teeth and ignore Skibidi")
+    print("3. Brush your teeth and ignore Skibidi") #first endings
 
     choice = input("> ")
 
@@ -83,7 +83,7 @@ def fanum_taxed():
 
 def onward_with_skib():
     print("As soon as you step out, an evil shake from the Grimace clan presses up on you! Do you")
-    print("1. Take out your plunger unleash your balkan rage and annihilate him")
+    print("1. Take out your plunger unleash your balkan rage and annihilate him") #skibidi toilet referece
     print("2. Forget the plunger and fight him with straight hands")
 
 
@@ -150,11 +150,11 @@ def a_death_from_soilders():
 
 def night_night_jonkler():
     print("You pop up inside the jonklers quaters and knock him out\n")
-    into_the_castle()
+    into_the_castle() #WHY SO FIENIOUS
 
 def john_porks_encounter():
         print("You climb over the wall and enter John Porks Butchery. However, he's pretty friendly and wont rat you out\n")
-        into_the_castle()
+        into_the_castle() #john pork the assassin
 
 
 def into_the_castle():
@@ -185,7 +185,7 @@ def fork_in_the_road():
     print("As you sneak down the corridor, but come to a fork in the hallway, you could go right, or left. Do you")
     print("1. you could go down the left hallway, which seems to be emitting a blue glow from a room at the end")
     print("2. Or you could go down the right, which is pulsating an evil purple aura")
-
+#calm easy choice for the reader
 
     choice = input("> ")
 
